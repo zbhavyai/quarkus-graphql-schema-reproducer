@@ -1,0 +1,13 @@
+package org.acme.microprofile.graphql;
+
+public class OtherID implements ID<OtherID> {
+    protected int idd;
+
+    public int getIdd() {
+        return this.idd;
+    }
+
+    public void setIdd(int idd) {
+        this.idd = idd;
+    }
+}
