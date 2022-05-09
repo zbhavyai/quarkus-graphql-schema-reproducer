@@ -2,7 +2,7 @@
 
 A reproducer for GraphQL schema creator StackOverflow exception.
 
-Used in issue _TBA_.
+Used in issue [https://github.com/quarkusio/quarkus/issues/25466](https://github.com/quarkusio/quarkus/issues/25466).
 
 ## Steps to reproduce
 
